@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
 ![Hi there 👋](https://res.cloudinary.com/importdata/image/upload/v1594310913/YT_Banner_rkjidf.png)
-
+-->
 
 **Welcome to my GitHub page!**
 
