@@ -14,7 +14,7 @@
 
 #### 📫 How to reach me:
 
-  <a href="mailto:hasankamrul2097@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>    [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/kamrul-hasan-60767a183/)    [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/KH2097/)    [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/0kamrulhasan0/)   [<img src="https://raw.githubusercontent.com/0kamrulhasan0/0kamrulhasan0/main/assets/discord-round.svg" width="3.5%"/>](https://discord.com/channels/@me/736164132893753392)
+  <a href="mailto:{hasankamrul2097@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>    [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/kamrul-hasan-60767a183/)    [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/m.m.kamrul.hasan.bd/)    [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/m.m.kamrul.hasan/)   [<img src="https://raw.githubusercontent.com/0kamrulhasan0/0kamrulhasan0/main/assets/discord-round.svg" width="3.5%"/>](https://discord.com/channels/@me/736164132893753392)
 
 #### 💻   Languages and Tools <br />
 
