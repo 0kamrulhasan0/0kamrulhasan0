@@ -1,11 +1,9 @@
-### Hi there 👋<img src="https://raw.githubusercontent.com/0kamrulhasan0/0kamrulhasan0/main/assets/Hi.gif" width="29px">
+### Hi there <img src="https://raw.githubusercontent.com/0kamrulhasan0/0kamrulhasan0/main/assets/Hi.gif" width="29px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0kamrulhasan0&label=Profile%20views&color=0e75b6&style=flat" alt="0kamrulhasan0" /> </p>
 
 
 **Welcome to my GitHub page!**
-
-<img src="https://raw.githubusercontent.com/0kamrulhasan0/0kamrulhasan0/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 *   🌱 I’m graduate from [BRAC University](https://www.bracu.ac.bd).
 *   🌱 My main topics of interest are Machine Learning, Data Science and Big Data.
