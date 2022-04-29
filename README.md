@@ -46,6 +46,6 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0kamrulhasan0&show_icons=true&locale=en&layout=compact" alt="0kamrulhasan0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0kamrulhasan0&show_icons=true&locale=en&layout=compact" alt="0kamrulhasan0" /></p> <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0kamrulhasan0&show_icons=true&locale=en" alt="0kamrulhasan0" /></p>
